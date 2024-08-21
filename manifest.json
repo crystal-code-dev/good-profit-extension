@@ -1,0 +1,10 @@
+{
+  "name": "Good Profit",
+  "version": "1.0.0",
+  "description": "Check the price history of any product online and make a good profit",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Good Profit"
+  }
+}
